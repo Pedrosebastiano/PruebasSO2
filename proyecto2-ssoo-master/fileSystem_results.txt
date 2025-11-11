@@ -1,0 +1,4 @@
+Name: Root/, type: directory
+  Name: ARCHIVO 1, Size: 10, type: file, directory: null
+  Name: CARPETA 1/, type: directory
+  Name: ARCHIVO 2, Size: 10, type: file, directory: null
