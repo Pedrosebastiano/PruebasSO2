@@ -1,0 +1,108 @@
+{
+  "name": "root",
+  "subDirectories": {},
+  "files": {
+    "cabeza": {
+      "dato": {
+        "name": "lfuA",
+        "size": 8,
+        "blocks": {
+          "cabeza": {
+            "dato": 44,
+            "siguiente": {
+              "dato": 30,
+              "siguiente": {
+                "dato": 88,
+                "siguiente": {
+                  "dato": 79,
+                  "siguiente": {
+                    "dato": 65,
+                    "siguiente": {
+                      "dato": 99,
+                      "siguiente": {
+                        "dato": 94,
+                        "siguiente": {
+                          "dato": 36
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "siguiente": {
+        "dato": {
+          "name": "lfuB",
+          "size": 8,
+          "blocks": {
+            "cabeza": {
+              "dato": 34,
+              "siguiente": {
+                "dato": 69,
+                "siguiente": {
+                  "dato": 70,
+                  "siguiente": {
+                    "dato": 78,
+                    "siguiente": {
+                      "dato": 20,
+                      "siguiente": {
+                        "dato": 32,
+                        "siguiente": {
+                          "dato": 54,
+                          "siguiente": {
+                            "dato": 83
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "siguiente": {
+          "dato": {
+            "name": "lfuC",
+            "size": 10,
+            "blocks": {
+              "cabeza": {
+                "dato": 28,
+                "siguiente": {
+                  "dato": 87,
+                  "siguiente": {
+                    "dato": 21,
+                    "siguiente": {
+                      "dato": 33,
+                      "siguiente": {
+                        "dato": 14,
+                        "siguiente": {
+                          "dato": 53,
+                          "siguiente": {
+                            "dato": 85,
+                            "siguiente": {
+                              "dato": 77,
+                              "siguiente": {
+                                "dato": 6,
+                                "siguiente": {
+                                  "dato": 64
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
